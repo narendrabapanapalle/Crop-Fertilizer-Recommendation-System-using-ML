@@ -66,7 +66,7 @@ Recommended Crop → Rice
 
  **Nitrogen (N), Phosphorus (P), Potassium (K)**  
  **Temperature, Humidity, pH, Rainfall**  
- **Target variable:** Recommended Crop 🌾  
+ **Target variable:** Recommended Crop 
 
 ##  Key Features
 
